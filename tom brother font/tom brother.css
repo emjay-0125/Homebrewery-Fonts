@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'tom brother';
+    src: url('fonts/tom-brother.eot');
+    src: url('fonts/tom-brother.eot?#iefix') format('embedded-opentype'),
+         url('fonts/tom-brother.woff2') format('woff2'),
+         url('fonts/tom-brother.woff') format('woff'),
+         url('fonts/tom-brother.ttf')  format('truetype'),
+         url('fonts/tom-brother.svg#tom brother') format('svg');
+}
