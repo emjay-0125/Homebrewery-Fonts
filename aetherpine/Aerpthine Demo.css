@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Aerpthine Demo';
+    src: url('fonts/Aerpthine-Demo.eot');
+    src: url('fonts/Aerpthine-Demo.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Aerpthine-Demo.woff2') format('woff2'),
+         url('fonts/Aerpthine-Demo.woff') format('woff'),
+         url('fonts/Aerpthine-Demo.ttf')  format('truetype'),
+         url('fonts/Aerpthine-Demo.svg#Aerpthine Demo') format('svg');
+}
