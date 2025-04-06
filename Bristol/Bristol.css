@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bristol';
+    src: url('fonts/Bristol.eot');
+    src: url('fonts/Bristol.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Bristol.woff2') format('woff2'),
+         url('fonts/Bristol.woff') format('woff'),
+         url('fonts/Bristol.ttf')  format('truetype'),
+         url('fonts/Bristol.svg#Bristol') format('svg');
+}
