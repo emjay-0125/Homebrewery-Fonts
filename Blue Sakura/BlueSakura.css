@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BlueSakura';
+    src: url('fonts/BlueSakura.eot');
+    src: url('fonts/BlueSakura.eot?#iefix') format('embedded-opentype'),
+         url('fonts/BlueSakura.woff2') format('woff2'),
+         url('fonts/BlueSakura.woff') format('woff'),
+         url('fonts/BlueSakura.ttf')  format('truetype'),
+         url('fonts/BlueSakura.svg#BlueSakura') format('svg');
+}
