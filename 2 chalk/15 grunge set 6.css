@@ -1,9 +1,0 @@
-@font-face {
-    font-family: '15 grunge set 6';
-    src: url('fonts/2-chalk.eot');
-    src: url('fonts/2-chalk.eot?#iefix') format('embedded-opentype'),
-         url('fonts/2-chalk.woff2') format('woff2'),
-         url('fonts/2-chalk.woff') format('woff'),
-         url('fonts/2-chalk.ttf')  format('truetype'),
-         url('fonts/2-chalk.svg#15 grunge set 6') format('svg');
-}
