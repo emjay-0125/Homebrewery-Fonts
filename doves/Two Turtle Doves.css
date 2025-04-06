@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Two Turtle Doves';
+    src: url('fonts/doves.eot');
+    src: url('fonts/doves.eot?#iefix') format('embedded-opentype'),
+         url('fonts/doves.woff2') format('woff2'),
+         url('fonts/doves.woff') format('woff'),
+         url('fonts/doves.ttf')  format('truetype'),
+         url('fonts/doves.svg#Two Turtle Doves') format('svg');
+}
